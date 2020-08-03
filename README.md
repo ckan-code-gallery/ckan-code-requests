@@ -18,3 +18,14 @@ In accordance with this license, I request the source code of your open data web
 
 Thank you in advance.
 ```
+
+## Open requests
+
+Sites which were contacted with request for source code:
+
+* http://dados.ufrn.br/
+  * August 3, 2020: sent email
+* http://data.zagreb.hr/
+  * August 3, 2020: sent email
+
+  
