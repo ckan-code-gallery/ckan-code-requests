@@ -7,11 +7,13 @@ Tracking requests for CKAN source codes which are not available yet
 Sites which were contacted with request for source code:
 
 * http://dados.ufrn.br/
-  * August 3, 2020: sent email
+  * August 3, 2020: sent email to sri@sri.ufrn.br
 * http://data.zagreb.hr/
-  * August 3, 2020: sent email
+  * August 3, 2020: sent email to international.relations@zagreb.hr
 * http://data.surrey.ca/
   * August 3, 2020: submitted contact form http://data.surrey.ca/contact
+* https://search.open.canada.ca/
+  * August 3, 2020: sent email to open-ouvert@tbs-sct.gc.ca
   
 
 ## Template text for requesting CKAN source code
