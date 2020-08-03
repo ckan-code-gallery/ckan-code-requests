@@ -2,6 +2,8 @@
 
 Tracking requests for CKAN source codes which are not available yet
 
+To send your own CKAN source code to be listed in the gallery, [open an issue by clicking here](https://github.com/ckan-code-gallery/ckan-code-requests/issues/new?assignees=OriHoch&labels=&template=add-ckan-sources.md&title=request+to+add+CKAN+sources+for+)
+
 ## Open requests
 
 Sites which were contacted with request for source code:
