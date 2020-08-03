@@ -4,6 +4,9 @@ Gallery of CKAN source codes / themes / extensions
 
 ## Template text for requesting CKAN source code
 
+Subject: `Request for source code of your open data website`
+
+Content:
 ```
 Hello, this request is regarding your open data website at __URL__
 
