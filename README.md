@@ -1,6 +1,18 @@
-# ckan-code-gallery
+# ckan-code-requests
 
-Gallery of CKAN source codes / themes / extensions
+Tracking requests for CKAN source codes which are not available yet
+
+## Open requests
+
+Sites which were contacted with request for source code:
+
+* http://dados.ufrn.br/
+  * August 3, 2020: sent email
+* http://data.zagreb.hr/
+  * August 3, 2020: sent email
+* http://data.surrey.ca/
+  * August 3, 2020: submitted contact form http://data.surrey.ca/contact
+  
 
 ## Template text for requesting CKAN source code
 
@@ -18,15 +30,3 @@ In accordance with this license, I request the source code of your open data web
 
 Thank you in advance.
 ```
-
-## Open requests
-
-Sites which were contacted with request for source code:
-
-* http://dados.ufrn.br/
-  * August 3, 2020: sent email
-* http://data.zagreb.hr/
-  * August 3, 2020: sent email
-* http://data.surrey.ca/
-  * August 3, 2020: submitted contact form http://data.surrey.ca/contact
-  
