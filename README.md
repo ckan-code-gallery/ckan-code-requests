@@ -14,8 +14,6 @@ Sites which were contacted with request for source code:
   * August 3, 2020: sent email to international.relations@zagreb.hr
 * http://data.surrey.ca/
   * August 3, 2020: submitted contact form http://data.surrey.ca/contact
-* https://search.open.canada.ca/
-  * August 3, 2020: sent email to open-ouvert@tbs-sct.gc.ca
 * https://data.ontario.ca/
   * August 3, 2020: sent email to opengov@ontario.ca
   
