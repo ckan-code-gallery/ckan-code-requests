@@ -12,8 +12,6 @@ Sites which were contacted with request for source code:
   * August 3, 2020: sent email to sri@sri.ufrn.br
 * http://data.zagreb.hr/
   * August 3, 2020: sent email to international.relations@zagreb.hr
-* https://data.ontario.ca/
-  * August 3, 2020: sent email to opengov@ontario.ca
   
 
 ## Template text for requesting CKAN source code
